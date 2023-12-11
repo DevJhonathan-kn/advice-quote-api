@@ -1,0 +1,10 @@
+/* 
+//
+//  Mobile 640-
+//  ________________________________
+*/
+@media (max-width: 640px) {
+    :root {
+        --card-padding: 32px 22px 62px;
+    }
+}
